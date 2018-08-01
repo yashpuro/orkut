@@ -19,6 +19,7 @@
 
 
 ### Project Setup
+----------------------------------------------
 * MySQL username : root
 * MySQL password : manager
 * Execute mysql-dump on MySQL 
